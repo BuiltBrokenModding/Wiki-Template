@@ -1,0 +1,13 @@
+{
+    "name":"bbm-wiki",
+    "mod_page":"template",
+    "templates":{
+        "template":"template.html",
+        "PageHeader":".html",
+        "PageContent":".html",
+        "ModCategoryNav":".html",
+        "SiteHeader":".html",
+        "SiteFooter":".html",
+        "SiteNav":".html"
+    }
+}
