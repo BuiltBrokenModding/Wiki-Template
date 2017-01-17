@@ -3,12 +3,12 @@
     "main_template":"template",
     "pageDirectory":"./pages",
     "templates":{
-        "template":"template.html",
-        "PageHeader":".html",
-        "PageContent":".html",
-        "ModCategoryNav":".html",
-        "SiteHeader":".html",
-        "SiteFooter":".html",
-        "SiteNav":".html"
+        "template":"./template.html",
+        "PageHeader":"./page.header.html",
+        "PageContent":"./page.content.html",
+        "ModCategoryNav":"./page.category.html",
+        "SiteHeader":"./site.header.html",
+        "SiteFooter":"./site.footer.html",
+        "SiteNav":"./site.nav.html"
     }
 }
