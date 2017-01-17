@@ -1,6 +1,7 @@
 {
     "name":"bbm-wiki",
-    "mod_page":"template",
+    "main_template":"template",
+    "pageDirectory":"./pages",
     "templates":{
         "template":"template.html",
         "PageHeader":".html",
