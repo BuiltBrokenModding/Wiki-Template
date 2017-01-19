@@ -11,6 +11,6 @@
         "category_template":"./page.category.html",
         "category_entry":"./page.category.entry.html",
         "category_item":"./page.category.item.html",
-        "category_parent":"./page.category.parenet.html",
+        "category_parent":"./page.category.parent.html"
     }
 }
