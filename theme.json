@@ -1,14 +1,16 @@
 {
-    "name":"bbm-wiki",
-    "main_template":"template",
+    "name":"bbm-wiki",    
     "pageDirectory":"./pages",
-    "templates":{
-        "template":"./template.html",
+    "templates":{        
         "PageHeader":"./page.header.html",
         "PageContent":"./page.content.html",
-        "ModCategoryNav":"./page.category.html",
         "SiteHeader":"./site.header.html",
         "SiteFooter":"./site.footer.html",
-        "SiteNav":"./site.nav.html"
+        "SiteNav":"./site.nav.html",
+        "main_template":"./template.html",
+        "category_template":"./page.category.html",
+        "category_entry":"./page.category.entry.html",
+        "category_item":"./page.category.item.html",
+        "category_parent":"./page.category.parenet.html",
     }
 }
